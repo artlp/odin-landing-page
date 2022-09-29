@@ -92,9 +92,9 @@ h1 {
 .fact > img {
     border:2px solid #3882F6;
     border-radius: 10px;
-    height: 200px;
+    height: 216px;
     object-fit: cover;
-    width: 200px
+    width: 216px;
 }
 .fact > figcaption {
     max-width: 20ch;
